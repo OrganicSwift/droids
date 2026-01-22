@@ -18,10 +18,10 @@ export default function Home() {
           width={200}
           height={200}
         />
-        <h1 className={styles.title}>OnchainKit</h1>
+        <h1 className={styles.title}>Droids on Base</h1>
 
         <p>
-          Get started by editing <code>app/page.tsx</code>
+          Welcome to the Droids project. Get started by editing <code>app/page.tsx</code>
         </p>
 
         <h2 className={styles.componentsTitle}>Explore Components</h2>
